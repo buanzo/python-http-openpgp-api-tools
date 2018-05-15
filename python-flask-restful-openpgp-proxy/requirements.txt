@@ -1,0 +1,4 @@
+requests==2.18.4
+Flask==1.0.2
+flask_restful==0.3.6
+gnupg==2.3.1
