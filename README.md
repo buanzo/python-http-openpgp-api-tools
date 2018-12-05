@@ -12,7 +12,10 @@ creation of this code, and has allowed me on 2018-May-14 to open source it
 for the benefit of the open source and security communities.
 
 ## TL;DR I wanna code!
-https://github.com/buanzo/python-http-openpgp-api-tools/blob/a5b0eaf4fe100a877537ab264219485f11cfe4f2/python-requests-openpgp-api/openpgpapi.py#L238
+
+Client: https://github.com/buanzo/python-http-openpgp-api-tools/blob/a5b0eaf4fe100a877537ab264219485f11cfe4f2/python-requests-openpgp-api/openpgpapi.py#L238
+
+Server Config: https://github.com/buanzo/python-http-openpgp-api-tools/blob/master/python-flask-restful-openpgp-proxy/httpbin_proxy.conf
 
 Cheers.
 Buanzo.
