@@ -210,7 +210,6 @@ class OpenPGPApiRequest():
                              stream=False,
                              headers=local_headers,
                              verify=self.verify, **kwargs)
-        # TODO: implement decrypt_response(r)
         dr = self.crypto.decrypt(r.content)
         decrypted = json.loads(dr['decrypted_response'])
         odata = dr['openpgp_data']
