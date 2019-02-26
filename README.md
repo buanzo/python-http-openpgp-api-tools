@@ -7,8 +7,7 @@ This repository contains tools and modules that implement the client and
 server side of an OpenPGP-encapsulated HTTP API methodology.
 
 The code is insecure, and is a proof of concept that I expect someone might
-find useful. The Mkit company (https://mkit.com) has gladly sponsored the
-creation of this code. It is released for the benefit of the open source and security communities.
+find useful. It is released for the benefit of the open source and security communities.
 
 When I say it is insecure... don't get me wrong, this is quite useful and relatively secure, and takes measures to read passphrases using different methods, etc. I mean it has NOT been pentested, but it was written with (attempted) security in mind.
 
