@@ -1,3 +1,0 @@
-requests>=2.20.0
-gnupg==2.3.1
-responses==0.9.0
