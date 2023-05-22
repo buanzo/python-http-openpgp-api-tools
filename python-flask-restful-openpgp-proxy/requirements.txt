@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.31.0
 Flask==2.3.2
 flask_restful==0.3.6
 gnupg==2.3.1
